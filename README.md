@@ -33,10 +33,12 @@
 
 1. Покупаем расширение для изменения User-Agent, например [Unagent User Agent Switcher](https://apps.apple.com/ru/app/unagent-user-agent-switcher/id6448220941)
 2. Ставим один из понравившихся User-Agent:
-   `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0 `
-   `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36`
-   `Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko`
-3. Переходим к [добавлению ярлыка на рабочий стол](#Добавления-ярлыка-веб-версии)
+  ```
+  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36
+  Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+```
+4. Переходим к [добавлению ярлыка на рабочий стол](#Добавления-ярлыка-веб-версии)
 
 
 ### Добавления ярлыка веб-версии
